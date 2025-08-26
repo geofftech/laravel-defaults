@@ -1,6 +1,13 @@
 # GeoffTech - Laravel Defaults
 
-- Default configuration options for Laravel
+configuration
+
+- shouldBeStrict
+- CarbonImmutable
+- @admin blade
+
+packages
+
 - barryvdh/laravel-debugbar
 - barryvdh/laravel-ide-helper
 - geofftech/laravel-tools
